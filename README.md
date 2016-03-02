@@ -1,1 +1,2 @@
-# reindeer
+# Reindeer
+### For Loop, arrays and innerHTML
